@@ -1,5 +1,6 @@
 let number = 0
 let counter = 12
+//alert program about
 alert("This program will display the division tables of 1 to 12 based on number input")
 let answer = prompt("Please enter a number less then 100", "00")
 
